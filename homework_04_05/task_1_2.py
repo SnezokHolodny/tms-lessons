@@ -5,6 +5,6 @@
 #  Сделать это с помощью функции range c шагом 1 и вложенным if
 
 #  1.2
-for i in range(0, 101, 5):
+for i in range(0, 101, 1):
     if i % 1 == 0:
         print(i)
